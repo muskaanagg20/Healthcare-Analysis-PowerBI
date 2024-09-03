@@ -1,7 +1,7 @@
 # 🏥 HealthCare Patients Report - Power BI Project
 
 ## 🔍 Dashboard
-![Dashboard Preview](https://github.com/muskaanagg20/Healthcare-Analysis-PowerBI/blob/main/Healthcare%20Patient%20Report.PNG)
+![Dashboard Preview](https://github.com/muskaanagg20/Healthcare-Analysis-PowerBI/blob/main/Healthcare%20analysis.PNG)
 
 ## 📋 Overview
 The HealthCare Patients Report provides a detailed analysis of patient waitlists, case types, and specialty performance in healthcare facilities. This dashboard is designed to offer insights into patient volumes, wait times, and performance metrics to help healthcare providers optimize their services and manage patient care effectively.
